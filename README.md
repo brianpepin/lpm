@@ -9,6 +9,8 @@ LPM is a laser power meter used for reading the output power of a laser. It is d
 * Software calibration can use any sensor
 
 ![Board Back](Board_Back.jpg)
+_(note - the Eagle files included in this repo do not need the jumper and resistor hacks you see here.  They've been fixed)_
+
 ![Board Front](Board_Front.jpg)
 
 ### Calibration
