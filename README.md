@@ -5,7 +5,7 @@ LPM is a laser power meter used for reading the output power of a laser. It is d
 * 24 bit ADC for precision
 * Logging to onboard 64KB flash memory
 * Logs viewable graphically and can be output to PC using built-on USB serial port
-* Rechargable battery through USB-C connector
+* Rechargeable battery through USB-C connector
 * Software calibration can use any sensor
 
 ![Board Back](Board_Back.jpg)
