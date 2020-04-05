@@ -1,0 +1,4 @@
+namespace Exporter
+{
+    void exportLog();
+}
