@@ -17,7 +17,7 @@ _(note - the Eagle files included in this repo do not need the jumper and resist
 The board must be calibrated before use.  This can be done through the menu.  Connect a stable voltage source to the sensor input (11.5 volts maximum) and enter the calibration menu.  This will display six digits (###.###), and represents the laser power level at that voltage for the sensor you plan to use.  Use the D-Pad to adjust the digits and click down to accept.
 
 ### Usage
-Clicking down on the D-Pad turns the unit on. There is an automatic sleep of 10 minutes of inactivity.  Sleep is disabled during logging. Pressing right, left, select or on the D-Pad enters the menu. From here you can zero the max and averages, configure logging cadence or view the log if it exists.  There are also two short-cuts:  down zeros the max and averages and up starts / stops logging.
+Clicking down on the D-Pad turns the unit on. There is an automatic sleep of 10 minutes of inactivity.  Sleep is disabled during logging. Pressing right, left, select or on the D-Pad enters the menu. From here you can zero the max and averages, configure logging cadence or view the log if it exists.  There are also two short-cuts:  down zeros the max and averages and up starts / stops logging. Pressing and holding in the D-Pad for two seconds turns the unit off.
 
 ![Operation](Operation.jpg)
 
